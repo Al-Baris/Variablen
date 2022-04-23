@@ -18,7 +18,7 @@ namespace Variablen
             ushort zahl_ushort = 65535;
             long zahl_long = -9223372036854775;
             ulong zahl_ulong = 8;
-            float zahl_float = -340003;
+            float zahl_float = -340003f;
             double zahl_double = 494949949;
             char zahl_char = '#';
             string meinText = "Ich kontrolliere Variablen";
